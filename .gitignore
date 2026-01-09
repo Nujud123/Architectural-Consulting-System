@@ -1,0 +1,14 @@
+# Environment & Secrets
+.env
+
+# Virtual Environment
+.venv_ocr/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local / experimental scripts
+ocr_sbc1101.py
